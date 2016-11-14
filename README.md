@@ -2,6 +2,6 @@
 ######Sitema de login com email e senha e nivel de usuário.
 Dependecias:
 --
-* PHP versão 7
-* MySQL
+* PHP 7
+* Banco de Dados
 * CodeIgniter 3.1
